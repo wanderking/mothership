@@ -1,0 +1,8 @@
+[
+  {
+    "id" : 1,
+    "name": "Java Plugin Tests",
+    "method": "GET",
+    "endpoint": "http://mydomain.com/api/test_group_1"
+  }
+]
